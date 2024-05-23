@@ -26,8 +26,6 @@
 - [Recommendations](#recommendations)
   - [Potential ROI](#potential-roi)
   - [Potential Courses of Actions](#potential-courses-of-actions)
-- [Conclusion](#conclusion)
-
 
 
 # Objective 
@@ -107,6 +105,8 @@ Some of the data visuals that may be appropriate in answering our questions incl
 4. Horizontal bar chart 
 
 ![Dashboard-Mockup](assets/images/dashboard_mockup.png)
+
+![Dashboard-Mockup]("C:\Users\olaad\Downloads\assets"dashboard_mockup.png)
 
 ## Tools 
 
