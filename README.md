@@ -106,7 +106,9 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 ![Dashboard-Mockup](assets/images/dashboard_mockup.png)
 
-![Dashboard-Mockup]("C:\Users\olaad\Downloads\assets"dashboard_mockup.png)
+![Dashboard-Mockup](""C:\Users\olaad\Downloads\assets\Downloads\assets"dashboard_mockup.png")
+
+"C:\Users\olaad\Downloads\assets"
 
 ## Tools 
 
@@ -135,6 +137,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 7. Generate the findings based on the insights
 8. Write the documentation + commentary
 9. Publish the data to GitHub Pages
+    
 
 ## Data exploration notes
 
@@ -147,8 +150,6 @@ This is the stage where you have a scan of what's in the data, errors, inconcsis
 2. The first column contains the channel ID with what appears to be channel IDS, which are separated by a @ symbol - we need to extract the channel names from this.
 3. Some of the cells and header names are in a different language - we need to confirm if these columns are needed, and if so, we need to address them.
 4. We have more data than we need, so some of these columns would need to be removed
-
-
 
 
 
