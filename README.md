@@ -78,6 +78,34 @@ The data is sourced from Kaggle (an Excel extract), [see here to find it.](https
 - Testing
 - Analysis 
  
+# Design 
+
+## Dashboard components required 
+- What should the dashboard contain based on the requirements provided?
+
+To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
+
+1. Who are the top 10 YouTubers with the most subscribers?
+2. Which 3 channels have uploaded the most videos?
+3. Which 3 channels have the most views?
+4. Which 3 channels have the highest average views per video?
+5. Which 3 channels have the highest views per subscriber ratio?
+6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
+
+For now, these are some of the questions we need to answer, this may change as we progress down our analysis. 
+
+
+## Dashboard mockup
+
+- What should it look like? 
+
+Some of the data visuals that may be appropriate in answering our questions include:
+
+1. Table
+2. Treemap
+3. Scorecards
+4. Horizontal bar chart 
+
 
 
 
