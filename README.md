@@ -106,10 +106,6 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 ![Dashboard-Mockup](assets/images/dashboard_mockup.png)
 
-![Dashboard-Mockup]("C:\Users\olaad\Downloads\assets\Downloads\assets\dashboard_mockup.png")
-
-![Dashboard-Mockup]("Downloads\assets\Downloads\assets\dashboard_mockup.png")
-
 ![Dashboard-Mockup]("Downloads\assets\Downloads\assets\dashboard_mockup.png")
 
 
