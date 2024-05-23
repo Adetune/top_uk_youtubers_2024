@@ -101,6 +101,8 @@ For now, these are some of the questions we need to answer, this may change as w
 
 Some of the data visuals that may be appropriate in answering our questions include:
 
+![Dashboard-Mockup](assets/images/dashboard_mockup.png)
+
 1. Table
 2. Treemap
 3. Scorecards
