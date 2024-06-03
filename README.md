@@ -255,7 +255,6 @@ FROM
 ![Row count check](assets/images/1_row_count_check.png)
 
 
-
 ## Column count check
 ### SQL query 
 ```sql
