@@ -273,7 +273,6 @@ WHERE
 ![Column count check](assets/images/2_column_count_check.png)
 
 
-
 ## Data type check
 ### SQL query 
 ```sql
