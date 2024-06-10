@@ -1,4 +1,4 @@
-# UK Top Youtubers
+# UK Top YouTubers
 ![excel-to-powerbi-animated-diagram](assets/images/source.png)
 
 
