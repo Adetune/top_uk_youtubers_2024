@@ -1,7 +1,9 @@
-# UK Top Youtubers
-## Excel to Power BI project
+# UK Top Youtubers: Excel to Power BI project
+
 
 ![excel-to-powerbi-animated-diagram](assets/images/UK Top YouTubers.png)
+
+
 
 # Table of contents 
 
