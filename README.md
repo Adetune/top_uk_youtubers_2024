@@ -1,5 +1,4 @@
-# Excel to Power BI project
-# Top UK Youtubers
+# Top UK Youtubers:Excel to Power BI project
 
 # Table of contents 
 
