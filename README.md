@@ -1,6 +1,8 @@
 # UK Top Youtubers
 ## Excel to Power BI project
 
+![UK Top YouTubers](assets/images/UK Top YouTubers.png)
+
 # Table of contents 
 
 - [Objective](#objective)
