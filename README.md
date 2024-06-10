@@ -3,8 +3,6 @@
 
 ![excel-to-powerbi-animated-diagram](assets/images/UK Top YouTubers.png)
 
-
-
 # Table of contents 
 
 - [Objective](#objective)
